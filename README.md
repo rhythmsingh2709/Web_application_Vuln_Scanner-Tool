@@ -9,7 +9,7 @@ This repository documents the user interface workflow for a web application vuln
 
 ### 1. Results Summary
 
-![Scan Results](Screenshot-2025-10-26-120526.jpg)
+![Scan Results](Screenshot-2025-10-26-120526.png)
 
 - Stylish header with theme toggle and target domain preview.
 - Clear card showing the total number of vulnerabilities found during a scan.
@@ -19,7 +19,7 @@ This repository documents the user interface workflow for a web application vuln
 
 ### 2. Vulnerability Table
 
-![Vulnerability Table](Screenshot-2025-10-26-120549.jpg)
+![Vulnerability Table](Screenshot-2025-10-26-120549.png)
 
 - Table view of web vulnerabilities.
 - Severity using colorful badges: "HIGH", "MEDIUM", "LOW".
@@ -30,7 +30,7 @@ This repository documents the user interface workflow for a web application vuln
 
 ### 3. Scan Start Form
 
-![Scan Form](Screenshot-2025-10-26-120506.jpg)
+![Scan Form](Screenshot-2025-10-26-120506.png)
 
 - Main entry page where users specify a target URL.
 - Option to set Max Pages to Crawl.
